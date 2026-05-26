@@ -1,0 +1,24 @@
+{
+  "name": "defi-yield-dashboard",
+  "version": "1.0.0",
+  "description": "Real-time DeFi yield farming dashboard with multi-chain support. React + Ethers.js + TailwindCSS",
+  "author": "Kai Silva",
+  "license": "MIT",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "ethers": "^6.9.0",
+    "@tanstack/react-query": "^5.17.0",
+    "recharts": "^2.10.0",
+    "tailwindcss": "^3.4.0"
+  },
+  "devDependencies": {
+    "vite": "^5.0.0",
+    "@vitejs/plugin-react": "^4.2.0"
+  }
+}
